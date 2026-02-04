@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/gchan57/lcode/tree/master/0214-shortest-palindrome) |
+## Array
+|  |
+| ------- |
+| [1580-shuffle-the-array](https://github.com/gchan57/lcode/tree/master/1580-shuffle-the-array) |
 <!---LeetCode Topics End-->

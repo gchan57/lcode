@@ -5,6 +5,7 @@ A
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/gchan57/lcode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/gchan57/lcode/tree/master/0812-rotate-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/gchan57/lcode/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/gchan57/lcode/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |

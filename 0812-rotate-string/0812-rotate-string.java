@@ -3,6 +3,6 @@ class Solution {
         if(s.length()!=goal.length()){
             return false;
         }
-        return (s+s).contains(goal);
+        return (s+s).contains(goal); //or kmp could be used
     }
 }

@@ -23,4 +23,12 @@ A
 |  |
 | ------- |
 | [1580-shuffle-the-array](https://github.com/gchan57/lcode/tree/master/1580-shuffle-the-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/gchan57/lcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/gchan57/lcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

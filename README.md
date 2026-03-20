@@ -57,4 +57,8 @@ A
 | [0138-copy-list-with-random-pointer](https://github.com/gchan57/lcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gchan57/lcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gchan57/lcode/tree/master/0142-linked-list-cycle-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/gchan57/lcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

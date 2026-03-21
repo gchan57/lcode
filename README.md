@@ -4,6 +4,7 @@ A
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gchan57/lcode/tree/master/0013-roman-to-integer) |
 | [0214-shortest-palindrome](https://github.com/gchan57/lcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/gchan57/lcode/tree/master/0812-rotate-string) |
 ## Rolling Hash
@@ -51,9 +52,11 @@ A
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gchan57/lcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/gchan57/lcode/tree/master/0013-roman-to-integer) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gchan57/lcode/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/gchan57/lcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gchan57/lcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gchan57/lcode/tree/master/0142-linked-list-cycle-ii) |

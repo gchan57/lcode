@@ -23,6 +23,7 @@ A
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/gchan57/lcode/tree/master/0485-max-consecutive-ones) |
 | [1580-shuffle-the-array](https://github.com/gchan57/lcode/tree/master/1580-shuffle-the-array) |
 ## Linked List
 |  |

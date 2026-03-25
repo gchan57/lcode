@@ -35,6 +35,7 @@ A
 | [0138-copy-list-with-random-pointer](https://github.com/gchan57/lcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gchan57/lcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gchan57/lcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/gchan57/lcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/gchan57/lcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -61,9 +62,18 @@ A
 | [0138-copy-list-with-random-pointer](https://github.com/gchan57/lcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gchan57/lcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gchan57/lcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/gchan57/lcode/tree/master/0146-lru-cache) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/gchan57/lcode/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/gchan57/lcode/tree/master/0183-customers-who-never-order) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/gchan57/lcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/gchan57/lcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

@@ -23,6 +23,7 @@ A
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gchan57/lcode/tree/master/0054-spiral-matrix) |
 | [0485-max-consecutive-ones](https://github.com/gchan57/lcode/tree/master/0485-max-consecutive-ones) |
 | [1580-shuffle-the-array](https://github.com/gchan57/lcode/tree/master/1580-shuffle-the-array) |
 ## Linked List
@@ -76,4 +77,12 @@ A
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/gchan57/lcode/tree/master/0146-lru-cache) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/gchan57/lcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/gchan57/lcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

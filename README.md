@@ -23,6 +23,7 @@ A
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gchan57/lcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gchan57/lcode/tree/master/0054-spiral-matrix) |
 | [0485-max-consecutive-ones](https://github.com/gchan57/lcode/tree/master/0485-max-consecutive-ones) |
 | [1580-shuffle-the-array](https://github.com/gchan57/lcode/tree/master/1580-shuffle-the-array) |
@@ -56,6 +57,7 @@ A
 | ------- |
 | [0002-add-two-numbers](https://github.com/gchan57/lcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/gchan57/lcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/gchan57/lcode/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gchan57/lcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gchan57/lcode/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |

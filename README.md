@@ -25,6 +25,7 @@ A
 | ------- |
 | [0048-rotate-image](https://github.com/gchan57/lcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gchan57/lcode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/gchan57/lcode/tree/master/0075-sort-colors) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gchan57/lcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/gchan57/lcode/tree/master/0485-max-consecutive-ones) |
 | [1580-shuffle-the-array](https://github.com/gchan57/lcode/tree/master/1580-shuffle-the-array) |
@@ -51,6 +52,7 @@ A
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/gchan57/lcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/gchan57/lcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/gchan57/lcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gchan57/lcode/tree/master/0142-linked-list-cycle-ii) |
 ## Math
@@ -98,4 +100,8 @@ A
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/gchan57/lcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/gchan57/lcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

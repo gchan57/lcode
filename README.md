@@ -27,6 +27,7 @@ A
 | [0054-spiral-matrix](https://github.com/gchan57/lcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/gchan57/lcode/tree/master/0075-sort-colors) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gchan57/lcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/gchan57/lcode/tree/master/0274-h-index) |
 | [0485-max-consecutive-ones](https://github.com/gchan57/lcode/tree/master/0485-max-consecutive-ones) |
 | [1580-shuffle-the-array](https://github.com/gchan57/lcode/tree/master/1580-shuffle-the-array) |
 ## Linked List
@@ -104,4 +105,9 @@ A
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gchan57/lcode/tree/master/0075-sort-colors) |
+| [0274-h-index](https://github.com/gchan57/lcode/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/gchan57/lcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

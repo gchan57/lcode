@@ -30,6 +30,7 @@ A
 | [0274-h-index](https://github.com/gchan57/lcode/tree/master/0274-h-index) |
 | [0485-max-consecutive-ones](https://github.com/gchan57/lcode/tree/master/0485-max-consecutive-ones) |
 | [1580-shuffle-the-array](https://github.com/gchan57/lcode/tree/master/1580-shuffle-the-array) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/gchan57/lcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Linked List
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A
 | ------- |
 | [0075-sort-colors](https://github.com/gchan57/lcode/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/gchan57/lcode/tree/master/0274-h-index) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/gchan57/lcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Counting Sort
 |  |
 | ------- |

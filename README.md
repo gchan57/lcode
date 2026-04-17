@@ -25,6 +25,7 @@ A
 | ------- |
 | [0048-rotate-image](https://github.com/gchan57/lcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gchan57/lcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/gchan57/lcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/gchan57/lcode/tree/master/0075-sort-colors) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gchan57/lcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/gchan57/lcode/tree/master/0274-h-index) |
@@ -105,6 +106,7 @@ A
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/gchan57/lcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/gchan57/lcode/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/gchan57/lcode/tree/master/0274-h-index) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/gchan57/lcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |

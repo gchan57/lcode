@@ -23,6 +23,7 @@ A
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gchan57/lcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/gchan57/lcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gchan57/lcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/gchan57/lcode/tree/master/0056-merge-intervals) |
@@ -100,6 +101,7 @@ A
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gchan57/lcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gchan57/lcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |

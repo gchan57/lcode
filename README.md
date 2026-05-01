@@ -36,6 +36,7 @@ A
 | [0240-search-a-2d-matrix-ii](https://github.com/gchan57/lcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/gchan57/lcode/tree/master/0274-h-index) |
 | [0485-max-consecutive-ones](https://github.com/gchan57/lcode/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/gchan57/lcode/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/gchan57/lcode/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/gchan57/lcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [4255-minimum-absolute-difference-between-two-values](https://github.com/gchan57/lcode/tree/master/4255-minimum-absolute-difference-between-two-values) |
@@ -112,6 +113,7 @@ A
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gchan57/lcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gchan57/lcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gchan57/lcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0792-binary-search](https://github.com/gchan57/lcode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |

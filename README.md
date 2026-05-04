@@ -36,6 +36,7 @@ A
 | [0162-find-peak-element](https://github.com/gchan57/lcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gchan57/lcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/gchan57/lcode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/gchan57/lcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/gchan57/lcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/gchan57/lcode/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/gchan57/lcode/tree/master/1580-shuffle-the-array) |
@@ -67,6 +68,7 @@ A
 | [0075-sort-colors](https://github.com/gchan57/lcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/gchan57/lcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gchan57/lcode/tree/master/0142-linked-list-cycle-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/gchan57/lcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A
 | [0141-linked-list-cycle](https://github.com/gchan57/lcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gchan57/lcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/gchan57/lcode/tree/master/0146-lru-cache) |
+| [0349-intersection-of-two-arrays](https://github.com/gchan57/lcode/tree/master/0349-intersection-of-two-arrays) |
 ## Database
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gchan57/lcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gchan57/lcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gchan57/lcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/gchan57/lcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/gchan57/lcode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -127,6 +131,7 @@ A
 | [0056-merge-intervals](https://github.com/gchan57/lcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/gchan57/lcode/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/gchan57/lcode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/gchan57/lcode/tree/master/0349-intersection-of-two-arrays) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/gchan57/lcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Counting Sort
 |  |

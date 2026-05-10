@@ -41,6 +41,7 @@ A
 | [0792-binary-search](https://github.com/gchan57/lcode/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/gchan57/lcode/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/gchan57/lcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1646-kth-missing-positive-number](https://github.com/gchan57/lcode/tree/master/1646-kth-missing-positive-number) |
 | [4255-minimum-absolute-difference-between-two-values](https://github.com/gchan57/lcode/tree/master/4255-minimum-absolute-difference-between-two-values) |
 ## Linked List
 |  |
@@ -120,6 +121,7 @@ A
 | [0240-search-a-2d-matrix-ii](https://github.com/gchan57/lcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/gchan57/lcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/gchan57/lcode/tree/master/0792-binary-search) |
+| [1646-kth-missing-positive-number](https://github.com/gchan57/lcode/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |

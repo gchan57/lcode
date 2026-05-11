@@ -24,6 +24,7 @@ A
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gchan57/lcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/gchan57/lcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gchan57/lcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gchan57/lcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -80,6 +81,7 @@ A
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gchan57/lcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/gchan57/lcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gchan57/lcode/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/gchan57/lcode/tree/master/0138-copy-list-with-random-pointer) |

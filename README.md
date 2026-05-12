@@ -43,6 +43,7 @@ A
 | [1580-shuffle-the-array](https://github.com/gchan57/lcode/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/gchan57/lcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/gchan57/lcode/tree/master/1646-kth-missing-positive-number) |
+| [2639-separate-the-digits-in-an-array](https://github.com/gchan57/lcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [4255-minimum-absolute-difference-between-two-values](https://github.com/gchan57/lcode/tree/master/4255-minimum-absolute-difference-between-two-values) |
 ## Linked List
 |  |
@@ -112,6 +113,7 @@ A
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gchan57/lcode/tree/master/0054-spiral-matrix) |
+| [2639-separate-the-digits-in-an-array](https://github.com/gchan57/lcode/tree/master/2639-separate-the-digits-in-an-array) |
 ## Binary Search
 |  |
 | ------- |

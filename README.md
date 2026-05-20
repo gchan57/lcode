@@ -6,6 +6,7 @@ A
 | ------- |
 | [0012-integer-to-roman](https://github.com/gchan57/lcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gchan57/lcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/gchan57/lcode/tree/master/0049-group-anagrams) |
 | [0214-shortest-palindrome](https://github.com/gchan57/lcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/gchan57/lcode/tree/master/0812-rotate-string) |
 ## Rolling Hash
@@ -30,6 +31,7 @@ A
 | [0033-search-in-rotated-sorted-array](https://github.com/gchan57/lcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gchan57/lcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/gchan57/lcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/gchan57/lcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/gchan57/lcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/gchan57/lcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gchan57/lcode/tree/master/0057-insert-interval) |
@@ -87,6 +89,7 @@ A
 | [0001-two-sum](https://github.com/gchan57/lcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/gchan57/lcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gchan57/lcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/gchan57/lcode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/gchan57/lcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gchan57/lcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gchan57/lcode/tree/master/0142-linked-list-cycle-ii) |
@@ -137,6 +140,7 @@ A
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gchan57/lcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/gchan57/lcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/gchan57/lcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/gchan57/lcode/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/gchan57/lcode/tree/master/0274-h-index) |

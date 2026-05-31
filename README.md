@@ -6,6 +6,7 @@ A
 | ------- |
 | [0012-integer-to-roman](https://github.com/gchan57/lcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gchan57/lcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/gchan57/lcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/gchan57/lcode/tree/master/0049-group-anagrams) |
 | [0214-shortest-palindrome](https://github.com/gchan57/lcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/gchan57/lcode/tree/master/0812-rotate-string) |
@@ -154,4 +155,8 @@ A
 |  |
 | ------- |
 | [4255-minimum-absolute-difference-between-two-values](https://github.com/gchan57/lcode/tree/master/4255-minimum-absolute-difference-between-two-values) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gchan57/lcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -101,6 +101,7 @@ A
 | ------- |
 | [0175-combine-two-tables](https://github.com/gchan57/lcode/tree/master/0175-combine-two-tables) |
 | [0183-customers-who-never-order](https://github.com/gchan57/lcode/tree/master/0183-customers-who-never-order) |
+| [1908-recyclable-and-low-fat-products](https://github.com/gchan57/lcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Design
 |  |
 | ------- |

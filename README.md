@@ -105,6 +105,7 @@ A
 | [0183-customers-who-never-order](https://github.com/gchan57/lcode/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/gchan57/lcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/gchan57/lcode/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/gchan57/lcode/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/gchan57/lcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Design
 |  |

@@ -39,6 +39,7 @@ A
 | [0075-sort-colors](https://github.com/gchan57/lcode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gchan57/lcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gchan57/lcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gchan57/lcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gchan57/lcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/gchan57/lcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/gchan57/lcode/tree/master/0349-intersection-of-two-arrays) |
@@ -77,6 +78,7 @@ A
 | [0075-sort-colors](https://github.com/gchan57/lcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/gchan57/lcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gchan57/lcode/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gchan57/lcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/gchan57/lcode/tree/master/0349-intersection-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/gchan57/lcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
@@ -134,6 +136,7 @@ A
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gchan57/lcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gchan57/lcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gchan57/lcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gchan57/lcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gchan57/lcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/gchan57/lcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/gchan57/lcode/tree/master/0792-binary-search) |

@@ -44,6 +44,7 @@ A
 | [0274-h-index](https://github.com/gchan57/lcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/gchan57/lcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/gchan57/lcode/tree/master/0485-max-consecutive-ones) |
+| [0611-valid-triangle-number](https://github.com/gchan57/lcode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/gchan57/lcode/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/gchan57/lcode/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/gchan57/lcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -80,6 +81,7 @@ A
 | [0142-linked-list-cycle-ii](https://github.com/gchan57/lcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gchan57/lcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/gchan57/lcode/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/gchan57/lcode/tree/master/0611-valid-triangle-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/gchan57/lcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -141,6 +143,7 @@ A
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gchan57/lcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gchan57/lcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/gchan57/lcode/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/gchan57/lcode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/gchan57/lcode/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/gchan57/lcode/tree/master/1646-kth-missing-positive-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/gchan57/lcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -158,6 +161,7 @@ A
 | [0075-sort-colors](https://github.com/gchan57/lcode/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/gchan57/lcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/gchan57/lcode/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/gchan57/lcode/tree/master/0611-valid-triangle-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/gchan57/lcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/gchan57/lcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
@@ -172,4 +176,8 @@ A
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gchan57/lcode/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/gchan57/lcode/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->

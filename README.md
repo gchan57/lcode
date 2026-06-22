@@ -32,6 +32,7 @@ A
 | [0015-3sum](https://github.com/gchan57/lcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gchan57/lcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gchan57/lcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/gchan57/lcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/gchan57/lcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/gchan57/lcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/gchan57/lcode/tree/master/0054-spiral-matrix) |
@@ -76,6 +77,7 @@ A
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gchan57/lcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/gchan57/lcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/gchan57/lcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/gchan57/lcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/gchan57/lcode/tree/master/0141-linked-list-cycle) |
@@ -183,6 +185,7 @@ A
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gchan57/lcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/gchan57/lcode/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -191,4 +194,12 @@ A
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gchan57/lcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/gchan57/lcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/gchan57/lcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

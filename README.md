@@ -48,6 +48,7 @@ A
 | [0349-intersection-of-two-arrays](https://github.com/gchan57/lcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/gchan57/lcode/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/gchan57/lcode/tree/master/0611-valid-triangle-number) |
+| [0724-find-pivot-index](https://github.com/gchan57/lcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/gchan57/lcode/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/gchan57/lcode/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/gchan57/lcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -208,4 +209,8 @@ A
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gchan57/lcode/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/gchan57/lcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

@@ -43,6 +43,7 @@ A
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gchan57/lcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gchan57/lcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gchan57/lcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/gchan57/lcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gchan57/lcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/gchan57/lcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/gchan57/lcode/tree/master/0349-intersection-of-two-arrays) |
@@ -214,6 +215,7 @@ A
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/gchan57/lcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/gchan57/lcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/gchan57/lcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

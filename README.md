@@ -34,6 +34,7 @@ A
 | [0033-search-in-rotated-sorted-array](https://github.com/gchan57/lcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gchan57/lcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/gchan57/lcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/gchan57/lcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/gchan57/lcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/gchan57/lcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/gchan57/lcode/tree/master/0054-spiral-matrix) |
@@ -218,4 +219,8 @@ A
 | [0238-product-of-array-except-self](https://github.com/gchan57/lcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/gchan57/lcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/gchan57/lcode/tree/master/0724-find-pivot-index) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/gchan57/lcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->

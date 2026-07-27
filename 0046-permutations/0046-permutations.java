@@ -1,29 +1,21 @@
 class Solution {
 
-    public void  permucomputee(int index,List<List<Integer>> result,int[] nums){
+    public void  permucomputee(List<List<Integer>> result, ArrayList<Integer> temp,int[] nums){
 
-        if(index==nums.length){
-            List<Integer> tempo=new ArrayList<>();
-            for(int i=0;i<nums.length;i++){
-                tempo.add(nums[i]);
-            }
-            result.add(new ArrayList<>(tempo));
-            return;
+        if(temp.size()==nums.length){
+            result.add(new ArrayList<>(temp));
         }
-        for(int i=index;i<nums.length;i++){
-            swap(index,i,nums);
-            permucomputee(index+1,result,nums);
-            swap(index,i,nums);
+        for(int num:nums){
+            if(temp.contains(num)) continue;
+            temp.add(num);
+            permucomputee(result,temp,nums);
+            temp.remove(temp.size()-1);
         }
     }
-    public void swap(int i,int j,int[] nums){
-        int t=nums[i];
-        nums[i]=nums[j];
-        nums[j]=t;
-    }
+
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> result=new ArrayList<>();
-        permucomputee(0,result,nums);
+        permucomputee(result,new ArrayList<>(),nums);
         return result;
     }
 }

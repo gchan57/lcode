@@ -78,6 +78,7 @@ A
 | [0002-add-two-numbers](https://github.com/gchan57/lcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/gchan57/lcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gchan57/lcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/gchan57/lcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/gchan57/lcode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@ A
 | [0012-integer-to-roman](https://github.com/gchan57/lcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gchan57/lcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gchan57/lcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/gchan57/lcode/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |

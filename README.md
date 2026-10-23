@@ -38,6 +38,7 @@ A
 | [0047-permutations-ii](https://github.com/gchan57/lcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/gchan57/lcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/gchan57/lcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/gchan57/lcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/gchan57/lcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/gchan57/lcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gchan57/lcode/tree/master/0057-insert-interval) |
@@ -228,4 +229,9 @@ A
 | ------- |
 | [0046-permutations](https://github.com/gchan57/lcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gchan57/lcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/gchan57/lcode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/gchan57/lcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

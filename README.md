@@ -33,6 +33,7 @@ A
 | [0015-3sum](https://github.com/gchan57/lcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gchan57/lcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gchan57/lcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/gchan57/lcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/gchan57/lcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/gchan57/lcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gchan57/lcode/tree/master/0047-permutations-ii) |
@@ -110,6 +111,7 @@ A
 | [0003-longest-substring-without-repeating-characters](https://github.com/gchan57/lcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/gchan57/lcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gchan57/lcode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/gchan57/lcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/gchan57/lcode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/gchan57/lcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gchan57/lcode/tree/master/0141-linked-list-cycle) |
@@ -147,6 +149,7 @@ A
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gchan57/lcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/gchan57/lcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gchan57/lcode/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gchan57/lcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -227,11 +230,17 @@ A
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gchan57/lcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/gchan57/lcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gchan57/lcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/gchan57/lcode/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gchan57/lcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/gchan57/lcode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/gchan57/lcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

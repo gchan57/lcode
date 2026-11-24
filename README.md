@@ -9,6 +9,7 @@ A
 | [0013-roman-to-integer](https://github.com/gchan57/lcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/gchan57/lcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/gchan57/lcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/gchan57/lcode/tree/master/0079-word-search) |
 | [0214-shortest-palindrome](https://github.com/gchan57/lcode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/gchan57/lcode/tree/master/0812-rotate-string) |
 ## Rolling Hash
@@ -44,6 +45,7 @@ A
 | [0056-merge-intervals](https://github.com/gchan57/lcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gchan57/lcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/gchan57/lcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/gchan57/lcode/tree/master/0079-word-search) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gchan57/lcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gchan57/lcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gchan57/lcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -152,6 +154,7 @@ A
 | [0037-sudoku-solver](https://github.com/gchan57/lcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/gchan57/lcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gchan57/lcode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/gchan57/lcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gchan57/lcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
@@ -234,6 +237,7 @@ A
 | [0046-permutations](https://github.com/gchan57/lcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gchan57/lcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/gchan57/lcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/gchan57/lcode/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -243,4 +247,8 @@ A
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/gchan57/lcode/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/gchan57/lcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

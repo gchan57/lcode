@@ -251,16 +251,20 @@ A
 |  |
 | ------- |
 | [0079-word-search](https://github.com/gchan57/lcode/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gchan57/lcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gchan57/lcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gchan57/lcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gchan57/lcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gchan57/lcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/gchan57/lcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gchan57/lcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
